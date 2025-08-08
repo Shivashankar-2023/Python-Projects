@@ -1,3 +1,5 @@
+PYTHON PROJECTS
+
 1) PROJECT 1 - 🐍 Snake Water Gun - Python Game
 
 A simple command-line game in Python where you play **Snake 🐍, Water 💧, or Gun 🔫** against the computer.  
