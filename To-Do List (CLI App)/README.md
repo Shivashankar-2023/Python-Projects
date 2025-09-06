@@ -2,13 +2,13 @@
 
 A simple command-line To-Do List Manager where you can:
 
-Add tasks
+1)Add tasks
 
-View all tasks
+2)View all tasks
 
-Mark tasks as done
+3)Mark tasks as done
 
-Delete tasks
+4)Delete tasks
 
 Save tasks to a file for persistence
 
@@ -18,10 +18,10 @@ python todo.py
 
 📚 Concepts Used
 
-File handling
+1)File handling
 
-Lists & dictionaries
+2)Lists & dictionaries
 
-Loops & conditions
+3)Loops & conditions
 
-Menu-driven design
+4)Menu-driven design
