@@ -99,20 +99,6 @@ python snake\_water\_gun.py
 
 ---
 
-## 📸 Screenshots & Demos
-
-👉 Replace the placeholders (demo.gif) with your own **screenshots or GIF recordings**.
-
----
-
-## 📌 Future Plans
-
-✅ Add GUI versions (Tkinter or PyQt)
-✅ Add web-based mini apps (Flask/Django)
-✅ Add automation scripts & data projects
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -132,5 +118,3 @@ This repository is licensed under the **MIT License**.
 🌟 If you like these projects, don’t forget to **star ⭐ this repo**!
 
 ---
-
-Would you like me to also **make small README drafts for each individual project folder** so they look polished inside too (with instructions + screenshots placeholders)?
