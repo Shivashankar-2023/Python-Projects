@@ -76,7 +76,23 @@ Built using **OOP with Library & Student classes**.
 
 ---
 
-## 🚀 Getting Started
+4️⃣ To-do List App ✅
+
+A task management app built with Python.
+
+Add tasks
+
+View tasks
+
+Mark tasks as done
+
+Remove tasks
+
+Great for practicing lists, file handling, and CRUD operations.
+📂 Folder: ToDoList
+👉 View Code: ./ToDoList
+
+---
 
 ### Clone this repository
 
